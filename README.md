@@ -1,9 +1,8 @@
 ### Olá, me chamo Jonas Melo e esse é o meu perfil no GitHub :D
 
-- 💻 Atualmente, estou aprendendo HTML, CSS e JS ...
+- 💻 Atualmente, estou aprendendo HTML, CSS, JS e React ...
 - 👨‍💻 Desejo iniciar minha carreira na area de Front-end ...
 - 📚 Cursando SI na Universidade Federal Rural de Pernambuco ...
-- 🎮 Fun fact: Amante do MCU, DC & Games ...
 
 <div>
   <a href="https://github.com/jonmeloo">
@@ -23,9 +22,7 @@
  ##
   
 <div> 
-  <a href="https://www.youtube.com/channel/UCaomg529KNpI7IcQlo1P6HQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jon_meloo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/hunkfps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:limamelo83@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
