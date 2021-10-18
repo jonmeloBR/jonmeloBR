@@ -1,14 +1,9 @@
 ### Olá, me chamo Jonas Melo e esse é o meu perfil no GitHub :D
 
-- 💻 Atualmente, estou aprendendo HTML, CSS e JS ...
-- 👨‍💻 Desejo iniciar minha carreira na area de Front-end ...
-- 📚 Cursando SI na Universidade Federal Rural de Pernambuco ...
-- 🎮 Fun fact: Amante do MCU, DC & Games ...
-</br>
 <div>
   <a href="https://github.com/jonmeloBR">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonmeloBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonmeloBR&layout=compact=7&theme=dark"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonmeloBR&layout=compact=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
